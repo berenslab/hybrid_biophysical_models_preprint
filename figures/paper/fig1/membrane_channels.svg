@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1820"
+   height="1024"
+   viewBox="0 0 1820 1024"
+   version="1.1"
+   id="svg268"
+   sodipodi:docname="membrane_channels.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs272" />
+  <sodipodi:namedview
+     id="namedview270"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.75724955"
+     inkscape:cx="994.38818"
+     inkscape:cy="517.00262"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg268" />
+  <title
+     id="title2">Membrane bilayer with grouped lipids and channels</title>
+  <desc
+     id="desc4">Standalone SVG with explicit grouped lipids and channels.</desc>
+  <rect
+     x="0"
+     y="0"
+     width="1820"
+     height="1024"
+     fill="#f4f4f4"
+     id="rect6" />
+  <g
+     id="lipidLayer">
+    <g
+       id="lipid_1"
+       transform="translate(78,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle8" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path10" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path12" />
+    </g>
+    <g
+       id="lipid_2"
+       transform="translate(135,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle15" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path17" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path19" />
+    </g>
+    <g
+       id="lipid_3"
+       transform="translate(193,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle22" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path24" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path26" />
+    </g>
+    <g
+       id="lipid_4"
+       transform="translate(251,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle29" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path31" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path33" />
+    </g>
+    <g
+       id="lipid_5"
+       transform="translate(559,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle36" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path38" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path40" />
+    </g>
+    <g
+       id="lipid_6"
+       transform="translate(617,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle43" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path45" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path47" />
+    </g>
+    <g
+       id="lipid_7"
+       transform="translate(675,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle50" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path52" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path54" />
+    </g>
+    <g
+       id="lipid_8"
+       transform="translate(733,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle57" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path59" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path61" />
+    </g>
+    <g
+       id="lipid_9"
+       transform="translate(791,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle64" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path66" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path68" />
+    </g>
+    <g
+       id="lipid_10"
+       transform="translate(1085,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle71" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path73" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path75" />
+    </g>
+    <g
+       id="lipid_11"
+       transform="translate(1143,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle78" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path80" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path82" />
+    </g>
+    <g
+       id="lipid_12"
+       transform="translate(1201,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle85" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path87" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path89" />
+    </g>
+    <g
+       id="lipid_13"
+       transform="translate(1259,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle92" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path94" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path96" />
+    </g>
+    <g
+       id="lipid_14"
+       transform="translate(1317,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle99" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path101" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path103" />
+    </g>
+    <g
+       id="lipid_15"
+       transform="translate(1613,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle106" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path108" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path110" />
+    </g>
+    <g
+       id="lipid_16"
+       transform="translate(1671,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle113" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path115" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path117" />
+    </g>
+    <g
+       id="lipid_17"
+       transform="translate(1729,317) scale(1,1)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle120" />
+      <path
+         d="M -10 28 C -14 42 -14 58 -8 74 C -3 89 -4 103 -10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path122" />
+      <path
+         d="M 10 28 C 14 42 14 58 8 74 C 3 89 4 103 10 116"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path124" />
+    </g>
+    <g
+       id="lipid_18"
+       transform="matrix(1,0,0,-1,78,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle127" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path129" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path131" />
+    </g>
+    <g
+       id="lipid_19"
+       transform="matrix(1,0,0,-1,135,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle134" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path136" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path138" />
+    </g>
+    <g
+       id="lipid_20"
+       transform="matrix(1,0,0,-1,193,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle141" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path143" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path145" />
+    </g>
+    <g
+       id="lipid_21"
+       transform="matrix(1,0,0,-1,251,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle148" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path150" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path152" />
+    </g>
+    <g
+       id="lipid_22"
+       transform="matrix(1,0,0,-1,559,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle155" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path157" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path159" />
+    </g>
+    <g
+       id="lipid_23"
+       transform="matrix(1,0,0,-1,617,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle162" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path164" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path166" />
+    </g>
+    <g
+       id="lipid_24"
+       transform="matrix(1,0,0,-1,675,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle169" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path171" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path173" />
+    </g>
+    <g
+       id="lipid_25"
+       transform="matrix(1,0,0,-1,733,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle176" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path178" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path180" />
+    </g>
+    <g
+       id="lipid_26"
+       transform="matrix(1,0,0,-1,791,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle183" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path185" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path187" />
+    </g>
+    <g
+       id="lipid_27"
+       transform="matrix(1,0,0,-1,1085,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle190" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path192" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path194" />
+    </g>
+    <g
+       id="lipid_28"
+       transform="matrix(1,0,0,-1,1143,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle197" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path199" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path201" />
+    </g>
+    <g
+       id="lipid_29"
+       transform="matrix(1,0,0,-1,1201,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle204" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path206" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path208" />
+    </g>
+    <g
+       id="lipid_30"
+       transform="matrix(1,0,0,-1,1259,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle211" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path213" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path215" />
+    </g>
+    <g
+       id="lipid_31"
+       transform="matrix(1,0,0,-1,1317,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle218" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path220" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path222" />
+    </g>
+    <g
+       id="lipid_32"
+       transform="matrix(1,0,0,-1,1613,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle225" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path227" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path229" />
+    </g>
+    <g
+       id="lipid_33"
+       transform="matrix(1,0,0,-1,1671,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle232" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path234" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path236" />
+    </g>
+    <g
+       id="lipid_34"
+       transform="matrix(1,0,0,-1,1729,645)">
+      <circle
+         cx="0"
+         cy="0"
+         r="28"
+         fill="#b9c7e3"
+         stroke="#174b90"
+         stroke-width="4"
+         id="circle239" />
+      <path
+         d="m -10,28 c -4,14 -4,30 2,46 5,15 4,29 -2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path241" />
+      <path
+         d="m 10,28 c 4,14 4,30 -2,46 -5,15 -4,29 2,42"
+         fill="none"
+         stroke="#174b90"
+         stroke-width="4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path243" />
+    </g>
+  </g>
+  <g
+     id="channel_01-91"
+     transform="matrix(0.86374386,0,0,0.86374386,314.04786,502.43171)"
+     style="fill:#d69fad;fill-opacity:1;stroke:#ac4a63;stroke-opacity:1">
+    <path
+       d="m 97.626263,-289.80486 c -195.703314,-71.478 -51.174882,69.95018 -51.174882,139.90036 v 269.80782 c 0,69.95017 -188.775731,198.24207 51.174882,141.89893 20.153257,-4.73221 24.071437,-5.98041 43.864187,0 208.62784,63.03719 51.17488,-71.94876 51.17488,-141.89893 V -149.9045 c 0,-69.95018 133.79533,-211.41096 -51.17488,-139.90036 -18.96182,7.33075 -24.71433,6.99423 -43.864187,0 z"
+       fill="#a5b8dc"
+       stroke="#174b90"
+       stroke-width="4.41376"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       id="path251-2"
+       style="fill:#c17184;fill-opacity:1;stroke:#ab4a61;stroke-opacity:1"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       d="M -40.306315,5.9552362 C -69.192898,-24.065825 -86.845811,-110.1262 -76.414545,-188.18096 c 12.036077,-88.06178 44.132282,-132.09267 100.300635,-122.08566 33.701017,6.00422 46.539499,38.02669 51.353931,72.05055 5.616836,43.03019 -0.802405,94.066 -11.233673,141.098995 C 51.970271,-46.08127 49.563056,11.959449 62.401538,63.995955 74.437616,112.02965 80.856857,163.06546 75.240021,206.09565 70.425589,240.11951 57.587107,272.14198 23.88609,278.1462 -32.282263,288.15321 -64.378468,244.12232 -76.414545,156.06054 -86.845811,78.005784 -69.192898,33.974893 -40.306315,5.9552362 Z"
+       fill="#a5b8dc"
+       stroke="#174b90"
+       stroke-width="3.58434"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       id="path247-7"
+       style="fill:#d9a6b3;fill-opacity:1;stroke:#ac4a63;stroke-opacity:1" />
+    <path
+       d="m 273.27057,5.9571361 c 28.06548,-30.0236521 45.2166,-116.0914561 35.08184,-194.1529461 -11.69394,-88.06939 -42.87782,-132.10407 -97.44957,-122.0962 -32.74307,6.00474 -45.21662,38.02997 -49.8942,72.05678 -5.45718,43.03389 0.7796,94.0741 10.91436,141.11116 11.69394,51.040209 14.03274,109.085936 1.55919,161.126934 -11.69395,48.037846 -17.93073,99.078056 -12.47355,142.111946 4.67758,34.02681 17.15113,66.05204 49.8942,72.05678 54.57175,10.00787 85.75563,-34.02681 97.44957,-122.0962 C 318.48717,78.013902 301.33605,33.979212 273.27057,5.9571361 Z"
+       fill="#a5b8dc"
+       stroke="#174b90"
+       stroke-width="3.53318"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       id="path249-0"
+       style="fill:#d9a6b3;fill-opacity:1;stroke:#ac4a63;stroke-opacity:1" />
+  </g>
+  <g
+     id="channel_01-91-9"
+     transform="matrix(0.86374386,0,0,0.86374386,802.48477,502.43171)"
+     style="fill:#d69fad;fill-opacity:1;stroke:#ac4a63;stroke-opacity:1">
+    <path
+       d="m 97.626263,-289.80486 c -195.703314,-71.478 -51.174882,69.95018 -51.174882,139.90036 v 269.80782 c 0,69.95017 -188.775731,198.24207 51.174882,141.89893 20.153257,-4.73221 24.071437,-5.98041 43.864187,0 208.62784,63.03719 51.17488,-71.94876 51.17488,-141.89893 V -149.9045 c 0,-69.95018 133.79533,-211.41096 -51.17488,-139.90036 -18.96182,7.33075 -24.71433,6.99423 -43.864187,0 z"
+       fill="#a5b8dc"
+       stroke="#174b90"
+       stroke-width="4.41376"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       id="path251-2-3"
+       style="fill:#97b37f;fill-opacity:1;stroke:#3d7a24;stroke-opacity:1"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       d="M -40.306315,5.9552362 C -69.192898,-24.065825 -86.845811,-110.1262 -76.414545,-188.18096 c 12.036077,-88.06178 44.132282,-132.09267 100.300635,-122.08566 33.701017,6.00422 46.539499,38.02669 51.353931,72.05055 5.616836,43.03019 -0.802405,94.066 -11.233673,141.098995 C 51.970271,-46.08127 49.563056,11.959449 62.401538,63.995955 74.437616,112.02965 80.856857,163.06546 75.240021,206.09565 70.425589,240.11951 57.587107,272.14198 23.88609,278.1462 -32.282263,288.15321 -64.378468,244.12232 -76.414545,156.06054 -86.845811,78.005784 -69.192898,33.974893 -40.306315,5.9552362 Z"
+       fill="#a5b8dc"
+       stroke="#174b90"
+       stroke-width="3.58434"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       id="path247-7-6"
+       style="fill:#bfd0b1;fill-opacity:1;stroke:#3d7a24;stroke-opacity:1" />
+    <path
+       d="m 273.27057,5.9571361 c 28.06548,-30.0236521 45.2166,-116.0914561 35.08184,-194.1529461 -11.69394,-88.06939 -42.87782,-132.10407 -97.44957,-122.0962 -32.74307,6.00474 -45.21662,38.02997 -49.8942,72.05678 -5.45718,43.03389 0.7796,94.0741 10.91436,141.11116 11.69394,51.040209 14.03274,109.085936 1.55919,161.126934 -11.69395,48.037846 -17.93073,99.078056 -12.47355,142.111946 4.67758,34.02681 17.15113,66.05204 49.8942,72.05678 54.57175,10.00787 85.75563,-34.02681 97.44957,-122.0962 C 318.48717,78.013902 301.33605,33.979212 273.27057,5.9571361 Z"
+       fill="#a5b8dc"
+       stroke="#174b90"
+       stroke-width="3.53318"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       id="path249-0-0"
+       style="fill:#bfd0b1;fill-opacity:1;stroke:#3d7a24;stroke-opacity:1" />
+  </g>
+  <g
+     id="channel_01-91-9-6"
+     transform="matrix(0.86374386,0,0,0.86374386,1351.4908,502.43171)"
+     style="fill:#d69fad;fill-opacity:1;stroke:#ac4a63;stroke-opacity:1">
+    <path
+       d="m 97.626263,-289.80486 c -195.703314,-71.478 -51.174882,69.95018 -51.174882,139.90036 v 269.80782 c 0,69.95017 -188.775731,198.24207 51.174882,141.89893 20.153257,-4.73221 24.071437,-5.98041 43.864187,0 208.62784,63.03719 51.17488,-71.94876 51.17488,-141.89893 V -149.9045 c 0,-69.95018 133.79533,-211.41096 -51.17488,-139.90036 -18.96182,7.33075 -24.71433,6.99423 -43.864187,0 z"
+       fill="#a5b8dc"
+       stroke="#174b90"
+       stroke-width="4.41376"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       id="path251-2-3-2"
+       style="fill:#8f73bf;fill-opacity:1;stroke:#5b2a8f;stroke-opacity:1"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       d="M -40.306315,5.9552362 C -69.192898,-24.065825 -86.845811,-110.1262 -76.414545,-188.18096 c 12.036077,-88.06178 44.132282,-132.09267 100.300635,-122.08566 33.701017,6.00422 46.539499,38.02669 51.353931,72.05055 5.616836,43.03019 -0.802405,94.066 -11.233673,141.098995 C 51.970271,-46.08127 49.563056,11.959449 62.401538,63.995955 74.437616,112.02965 80.856857,163.06546 75.240021,206.09565 70.425589,240.11951 57.587107,272.14198 23.88609,278.1462 -32.282263,288.15321 -64.378468,244.12232 -76.414545,156.06054 -86.845811,78.005784 -69.192898,33.974893 -40.306315,5.9552362 Z"
+       fill="#a5b8dc"
+       stroke="#174b90"
+       stroke-width="3.58434"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       id="path247-7-6-6"
+       style="fill:#b8a9d6;fill-opacity:1;stroke:#5b2a8f;stroke-opacity:1" />
+    <path
+       d="m 273.27057,5.9571361 c 28.06548,-30.0236521 45.2166,-116.0914561 35.08184,-194.1529461 -11.69394,-88.06939 -42.87782,-132.10407 -97.44957,-122.0962 -32.74307,6.00474 -45.21662,38.02997 -49.8942,72.05678 -5.45718,43.03389 0.7796,94.0741 10.91436,141.11116 11.69394,51.040209 14.03274,109.085936 1.55919,161.126934 -11.69395,48.037846 -17.93073,99.078056 -12.47355,142.111946 4.67758,34.02681 17.15113,66.05204 49.8942,72.05678 54.57175,10.00787 85.75563,-34.02681 97.44957,-122.0962 C 318.48717,78.013902 301.33605,33.979212 273.27057,5.9571361 Z"
+       fill="#a5b8dc"
+       stroke="#174b90"
+       stroke-width="3.53318"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       id="path249-0-0-1"
+       style="fill:#b8a9d6;fill-opacity:1;stroke:#5b2a8f;stroke-opacity:1" />
+  </g>
+</svg>
